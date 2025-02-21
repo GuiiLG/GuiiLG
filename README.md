@@ -1,6 +1,6 @@
 <H2 style="color:white; ">Olá, eu sou Guilherme Luigi! 👋</H2> 
 
-<H4 style="color:#bf55ec; font-size:17px">Gosto muito da área de tecnologias e aprender cada dia um pouco mais sobre elas.</H4>
+<H4 style="color:#bf55ec; font-size:17px">Gosto muito da área de tecnologia e estou sempre buscando aprender mais a cada dia. Já estudei desenvolvimento web, com foco no front-end, mas também explorei o back-end, principalmente com Node.js, estudando mais a parte teórica. Atualmente, participo de um projeto acadêmico voltado para o desenvolvimento de uma IA. Com isso, estou me aprofundando na área de dados e inteligência artificial, estudando Machine Learning e explorando técnicas como Fine-tuning e RAG, além de aprender a utilizar o Hugging Face e bibliotecas como pandas e PyTorch.</H4>
 
 
 
